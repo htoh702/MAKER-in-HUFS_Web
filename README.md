@@ -3,7 +3,7 @@ MAKER in HUFS 프로그램 웹개발 팀
 
 참고 사이트 : https://opentutorials.org/module/4034/25091
 
-- Django의 모델을 설계하여 게시글을 작성하고 그 게시글에 댓글을 달 수 있는 웹페이지를 만들어보면서 웹프로그래밍을 배운다.
+- Django의 모델을 설계하여 게시글을 작성하고 그 게시글에 댓글을 달 수 있는 웹페이지를 만들어보면서 웹프로그래밍을 학습한다.
 - 카카오의 API를 이용하여 로그인을 시도하고, 로그인한 계정에 메세지를 보내본다.
 
 # 결과
@@ -24,6 +24,6 @@ MAKER in HUFS 프로그램 웹개발 팀
 
 4. 새로운 게시물을 작성할 수 있다.
 
-![KakaoTalk_Photo_2023-11-07-01-20-01](https://github.com/htoh702/MAKER-in-HUFS_Web/assets/79206548/d8305f63-d08d-4220-8385-dbf9cd679291)
+<img width="312" alt="스크린샷 2023-11-07 오전 1 22 31" src="https://github.com/htoh702/MAKER-in-HUFS_Web/assets/79206548/6475accd-5697-42b3-bcb6-f2955711f9ab">
 
 5. 카카오 API를 이용하여 나의 계정에 메세지를 보낸다.
